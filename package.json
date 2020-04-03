@@ -1,0 +1,19 @@
+{
+  "name": "bower-vimeo-froogaloop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "froogaloop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualidentityag/bower-vimeo-froogaloop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virtualidentityag/bower-vimeo-froogaloop/issues"
+  },
+  "homepage": "https://github.com/virtualidentityag/bower-vimeo-froogaloop#readme"
+}
